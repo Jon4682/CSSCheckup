@@ -1,0 +1,60 @@
+body {
+    background-color: lightgray;
+}
+
+.css-class {
+    background-color: navy;
+    font-size: 18pt;
+    height: 200px;
+    width: 25%;
+}
+
+.css-class h1 {
+    color: white;
+    font-size: 18px;
+}
+
+.css-class li {
+    color: white;
+    font-size: 16px;
+}
+
+#number-one {
+    color: rgb(146, 54, 69);
+    font-size: 18px;
+}
+
+#number-two {
+    color:rgb(175, 29, 175);
+    font-size: 18px;
+}
+
+.first-class {
+    color: rgb(136, 100, 8);
+    font-size: 18px;
+}
+
+.second-class {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1 {
+    color: navy;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h2 {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.container {
+    border: 10px solid blue;
+    background-color: lightskyblue;
+    margin: 2px 250px 200px 200px;
+    padding: 2px 20px 20px 40px;
+}
